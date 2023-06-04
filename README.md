@@ -256,4 +256,4 @@ Function Prototypes
     * Extracting the root node.
     * Searching for a node in a binary heap of size `n`.
 
-## Authors : Adrian Wachana>
+## Authors : Adrian Wachana
